@@ -1,0 +1,16 @@
+{
+  "name": "TM-Custom",
+  "version": "1.0.0",
+  "description": "Midterm CS4220",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "superagent": "^3.8.3",
+    "yargs": "^11.0.0"
+  }
+}
